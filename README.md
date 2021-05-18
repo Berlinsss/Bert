@@ -19,4 +19,4 @@ bv = BertVector()
 bv.encode(['今天天气不错'])
 ```
 具体参考run.py，生成向量
-另需要修改`extract_feature.py`中'predict_from_queue方法'，保存生成的向量
+另需要修改`extract_feature.py`中`predict_from_queue方法`，保存生成的向量
