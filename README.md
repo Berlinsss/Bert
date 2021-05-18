@@ -1,6 +1,7 @@
 # bert
 
-本文基于Google开源的[BERT](https://github.com/google-research/bert)代码进行了进一步的简化，方便生成句向量与做文本分类
+代码基于Google开源的[BERT](https://github.com/google-research/bert)代码进行了进一步的简化，方便生成句向量与做文本分类
+Tensortflow版本：1.13.1（可直接使用Pycharm生成虚拟环境，匹配‘requirement.txt’文件，配置环境）
 
 1、下载BERT中文模型（已下载添加） 
 
